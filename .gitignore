@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#JavaScript
+config.js
+.DS_Store
+
 # C extensions
 *.so
 
