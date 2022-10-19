@@ -31,8 +31,6 @@ The following webpage has been built as part of this project.
 
 **Snapshot of final webpage**
 
-<<<<<<< HEAD
-![images/Final_dashboard](Earthquake_Challenge/static/images/Map_Final.png)
-=======
+
 ![static/images/Final_dashboard](static/images/Map_Final.png)
->>>>>>> 2838667654ffc0e05cf0915b850cdbb5e41cf229
+
